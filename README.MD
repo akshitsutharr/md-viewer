@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Markdown Viewer](assets/icon.jpg)
+![Markdown Viewer](assets/icon.icon.webp)
 
 **A modern, feature-rich Markdown editor and viewer with Mermaid diagram and MathJax support.**
 
