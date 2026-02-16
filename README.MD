@@ -11,7 +11,7 @@
 [![HTML](https://img.shields.io/badge/HTML-14.3%25-orange?style=flat-square&logo=html5)](https://github.com/akshitsutharr/md-viewer)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 
-[Live Demo](#live-demo) • [Features](#features) • [Getting Started](#getting-started) • [Documentation](#documentation)
+[Live Demo](https://markdown-view.vercel.app/) • [Features](#features) • [Getting Started](#getting-started) • [Documentation](#documentation)
 
 </div>
 
