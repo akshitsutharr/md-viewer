@@ -98,9 +98,8 @@ Inline: `$E = mc^2$`
 Block:
 
 ```
-$$
-\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}
-$$
+$$\int_a^b f(x)\,dx = F(b) - F(a)$$
+$$\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}$$
 ```
 
 ### Import and Export
